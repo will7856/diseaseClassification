@@ -1,0 +1,4 @@
+# diseaseClassification
+利用机器学习多种分类算法对疾病中文数据进行分类
+中文分词，利用jieba分词，并添加了相关停用词与用户词典
+利用sklearn中TfidfVectorizer将分词结果转化为向量矩阵并利用相关模型进行训练与测试
